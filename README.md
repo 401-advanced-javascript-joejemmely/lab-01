@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-joejemmely/lab-01/pulls)
+- [submission PR](https://github.com/401-advanced-javascript-joejemmely/lab-01/pull/1)
 - [travis](https://travis-ci.com/401-advanced-javascript-joejemmely/lab-01)
 
 ### Modules
