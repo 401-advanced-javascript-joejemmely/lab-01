@@ -1,4 +1,4 @@
-# LAB - 01 Node Ecosystem
+# LAB - 01
 
 ## Node Ecosystem
 
